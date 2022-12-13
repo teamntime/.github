@@ -4,4 +4,4 @@ Welcome to the Github Organisation of TeamnTime. We are a team of developers tha
 
 Our aim is to improve the lives of nursing staff whilst ensuring that the patient gets the care they need.
 
-We are actively looking for C# developers with a statistical background and PHP/Symfony developers with a strong DevOps background. If this sounds like you, do feel free to reach out via [join@calidos.be](mailto:join@calidos.be)
+We are actively looking for C# developers with a statistical background and PHP/Symfony developers with a strong DevOps background. If this sounds like you, do feel free to reach out via [join@teamntime.com](mailto:join@teamntime.com)
